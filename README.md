@@ -1,16 +1,18 @@
 
 <h1 align="center">Hi 👋, I'm Unnati Patel</h1>
-- 🔭 I’m interested in **learning new technology, animation and graphics**
 
-- 🌱 I’m currently learning **Python for automation**
+- 🌱 I’m currently learning Python for automation
 
-- 💞️ I’m looking to developer my skills in Cloud Platform**
+- 💞️ I’m looking to developer my skills in Cloud Platform
 
-- 📫 How to reach me **patel.aw8@gmail.com**
+- 🔭 I’m interested in learning new technology, animation and graphics
 
-- ⚡ Fun fact **learning new technology, animation and graphics**
+- 📫 How to reach me patel.aw8@gmail.com
 
-<h3 align="left">Connect with me:</h3>
+- ⚡ I am interested in learning new technology, animation and graphics
+
+
+
 <p align="left">
 </p>
 
