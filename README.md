@@ -9,7 +9,6 @@
 
 - 📫 How to reach me patel.aw8@gmail.com
 
-- ⚡ I am interested in learning new technology, animation and graphics
 
 
 
