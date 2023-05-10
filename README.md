@@ -7,7 +7,7 @@
 
 - 🔭 I’m interested in learning new technology, animation and graphics
 
-- 📫 How to reach me patel.aw8@gmail.com
+- 📫 How to reach me unnatip5592@gmail.com
 
 
 
